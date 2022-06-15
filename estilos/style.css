@@ -34,3 +34,11 @@ section#telefone {
     width: 360px;     
     background: brown url('../img/iphone2.jfif') no-repeat;
 }
+
+iframe#tela {
+    position: relative;
+    top: 23px;
+    left: 24px;
+    width: 312px;
+    height: 674px;
+}
